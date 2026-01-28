@@ -91,8 +91,8 @@ nav ul {
 }
 
 nav a {
-    text-decoration: none;
-    color: #f5ff;
+    text-decoration: khaki;
+    color: bisque;
     padding: 0.5rem 0.75rem;
     border-radius: 0.6rem;
 }
@@ -168,4 +168,21 @@ nav a[aria-current="page"] {
     margin-top: 0.75rem;
     font-size: 1.5rem;
     opacity: 0.9;
+}
+
+/* Buttons */
+.button {
+    display: inline-block;
+    margin-top: 0.6;
+    background: #7cffb3;
+    color: #071016;
+    padding: 0.65rem 0.95rem;
+    border-radius: 0.75rem;
+    text-decoration: none;
+    font-weight: 700;
+
+    .button:focus-visible {
+        outline: 10 solid rgba(223, 202, 12, 0.55);
+        outline-offset: 2px;
+    }
 }
