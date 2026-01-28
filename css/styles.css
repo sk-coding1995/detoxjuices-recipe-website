@@ -52,10 +52,7 @@ main .site-wrap {
 
 h1, h2, h3 {
     line-height: 1.2;
-}
 
-p {
-    max-width: 70ch;
 }
 
 header, footer {
