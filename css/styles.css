@@ -15,9 +15,29 @@ body {
     color: #e2e4ec;
 }
 
-.brand-name {
-    font-weight: 700;
-    letter-spacing: 0.3px;
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+a {
+    color: inherit;
+}
+
+.skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0.5rem;
+    background: #202e0f;
+    color: #071007;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.5rem;
+}
+
+.skip-link:focus {
+    left: 0.75rem;
+    z-index: 999;
 }
 
 /* layout */
@@ -36,6 +56,11 @@ footer {
     border-bottom: 1px solid rgba(225, 255, 255, 0.08);
     margin-top: 3rem;
     padding: 1.5rem 0;
+}
+
+.brand-name {
+    font-weight: 700;
+    letter-spacing: 0.3px;
 }
 
 header .site-wrap {
