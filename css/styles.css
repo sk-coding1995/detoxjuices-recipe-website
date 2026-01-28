@@ -72,7 +72,7 @@ footer {
     letter-spacing: 0.3px;
 }
 
-
+/* Navigation */
 header .site-wrap {
     display: flex;
     align-items: center;
@@ -80,6 +80,31 @@ header .site-wrap {
     gap: 1rem;
     padding: 1rem 0;
 
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 0.75rem;
+    padding: 0;
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #f5ff;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.6rem;
+}
+
+nav a:hover,
+nav a:focus-visible {
+    outline: none;
+    background: rgba(225, 255, 255, 0.10);
+}
+
+nav a[aria-current="page"] {
+    background: rgba(124, 255, 179, 0.18);
 }
 
 /* Hero */
