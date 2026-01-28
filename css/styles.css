@@ -46,6 +46,18 @@ a {
     margin-inline: auto;
 }
 
+main .site-wrap {
+    padding: 1.25rem 0;
+}
+
+h1, h2, h3 {
+    line-height: 1.2;
+}
+
+p {
+    max-width: 70ch;
+}
+
 header, footer {
     background: #0f1a2e; 
     border-bottom: 1px solid rgba(225, 255, 255, 0.08);
@@ -62,6 +74,7 @@ footer {
     font-weight: 700;
     letter-spacing: 0.3px;
 }
+
 
 header .site-wrap {
     display: flex;
