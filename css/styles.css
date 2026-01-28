@@ -67,7 +67,9 @@ header .site-wrap {
     border-radius: 1rem;
     overflow: hidden;
     border: 1px solid rgba(225, 255, 255, 0.10);
-    
+    max-width: 480px;
+    width: fit-content;  /*shrink to fit content*/
+    flex: 0 0 auto;
 }
 
 .video-frame iframe {
