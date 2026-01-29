@@ -6,7 +6,9 @@ The aim of this project is to encourage healthier habits by making the recipes e
 
 ## Purpose and value
 The purpose of this website is to help people who want to improve their diet and not feel overwhelmed by complex recipes. 
-The website provides value by keeping the recipes very simple and not giving too many varieties of recipes which can be costly. By keeping it to two recipes, it is backed by nutritionists and science based giving the best possible outcome for healthy living. The goal is to make it feel practical that also works well on both desktop and mobile devices.
+The website provides value by keeping juice recipes simple, affordable, and easy to follow, using ingredients that are widely available. By focusing on a small number of clear recipes, the site encourages users to build healthy habits gradually rather than offering too many choices at once.
+
+The goal is to provide a practical and accessible resource that works well on both desktop and mobile devices, making healthy choices easier to fit into everyday life.
 
 ## Target audience
 The target audience consists of:
