@@ -44,14 +44,4 @@ The website consists of three pages:
 ## Attribution 
 All HTML and CSS code in this project was written by the author. Videos on the website are hosted on YouTube and embedded. No external frameworks, libraries or templates were used in the development of this project.
 
-## Screenshots
-
-### Home page - intent and navigation
-![Home page screenshot](screenshots/home-page.png)
-
-### Juices page - effortless recipes
-![Juices page screenshot](screenshots/juices-page.png)
-
-### About page - project goal and usability information
-![About page screenshot](screenshots/about-page.png)
 
