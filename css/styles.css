@@ -21,6 +21,16 @@ img {
     display: block;
 }
 
+/* about image */
+.about-image {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 1rem;
+    margin: 1.25rem 0 0;
+    display: block;
+}
+
+
 a {
     color: inherit;
 }
