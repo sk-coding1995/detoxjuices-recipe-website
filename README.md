@@ -12,14 +12,14 @@ The goal is to provide a practical and accessible resource that works well on bo
 
 ## Target audience
 The target audience consists of:
-- People who are searching for simple sustainable healthy habits.
-- People who are new to making juices and want easy affordable ingredients.
-- Smartphone users accessing the site who want easy readable pages. Especially for those who can only use basic funtions on their device.
+- People who are searching for simple sustainable healthy habits
+- People who are new to making juices and want easy affordable ingredients
+- Smartphone users accessing the site who want easy readable pages. Especially for those who can only use basic funtions on their device
 
 ## User stories
-- As a beginner, I want effortless juice recipes allowing me to start easily.
-- As a busy person, I want quick and healthy juice ideas that fit into my routine.
-- As a mobile user, I want the website to stay readable and easy to use on my device.
+- As a beginner, I want effortless juice recipes allowing me to start easily
+- As a busy person, I want quick and healthy juice ideas that fit into my routine
+- As a mobile user, I want the website to stay readable and easy to use on my device
 
 ## Website pages
 The website consists of three pages:
@@ -29,7 +29,14 @@ The website consists of three pages:
 
 ## Accessibility
 - Using semantic HTML elements 'header', 'nav', 'sections', 'main', 'article' and 'footer'
-- Includes skip link for keyboard users and screen reader users.
-- No autoplay media, users can control video playback.
-- Clear focused navigation and hover states for navigation links.
-- Sufficient contrast between text and background colours.
+- Includes skip link for keyboard users and screen reader users
+- No autoplay media, users can control video playback
+- Clear focused navigation and hover states for navigation links
+- Sufficient contrast between text and background colours
+
+## Technologies used
+- HTML5
+- CSS3
+- Visual Studio Code
+- GitHub (manual commits for version control)
+- CSS Grid and media queries for user layout
