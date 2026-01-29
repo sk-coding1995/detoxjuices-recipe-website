@@ -15,3 +15,8 @@ The target audience consists of:
 - People who are searching for simple sustainable healthy habits
 - People who are new to making juices and want easy affordable ingredients
 - Smartphone users accessing the site who want easy readable pages. Especially for those who can only use basic funtions on their device.
+
+## User stories
+- As a beginner, I want effortless juice recipes allowing me to start easily.
+- As a busy person, I want quick and healthy juice ideas that fit into my routine.
+- As a mobile user, I want the website to stay readable and easy to use on my device.
