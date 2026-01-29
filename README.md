@@ -40,3 +40,7 @@ The website consists of three pages:
 - Visual Studio Code
 - GitHub (manual commits for version control)
 - CSS Grid and media queries for user layout
+
+## Attribution 
+
+All HTML and CSS code in this project was written by the author. Videos on the website are hosted on YouTube and embedded. No external frameworks, libraries or templates were used in the development of this project.
