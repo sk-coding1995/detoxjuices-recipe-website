@@ -20,3 +20,9 @@ The target audience consists of:
 - As a beginner, I want effortless juice recipes allowing me to start easily.
 - As a busy person, I want quick and healthy juice ideas that fit into my routine.
 - As a mobile user, I want the website to stay readable and easy to use on my device.
+
+## Website pages
+The website consists of three pages:
+- hHome page (index.html)
+- Juices page (juices.html)
+- About page (about.html)
