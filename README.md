@@ -23,6 +23,6 @@ The target audience consists of:
 
 ## Website pages
 The website consists of three pages:
-- hHome page (index.html)
+- Home page (index.html)
 - Juices page (juices.html)
 - About page (about.html)
