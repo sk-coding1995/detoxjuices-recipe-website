@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Page metadata -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>DetoxJuices Recipes | Juices</title>
@@ -8,58 +9,69 @@
     <meta name="description" content="A selection of detoxifying juice recipes to cleanse the body of toxins">
 </head>
 <body>
+    <!-- Skip link for accessibility -->
     <a class="skip-link" href="#main">Skip to main content</a>
-
+    
+    <!-- Header and main navigation -->
     <header>
-       <div class="site-wrap">
-        <p class="brand-name">DetoxJuices Recipes</p>
-
-        <nav aria-label="Main Navigation">
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a aria-current="page" href="juices.html">Juices</a></li>
-                <li><a href="about.html">About us</a></li>
-            </ul>
-        </nav>
+        <div class="site-wrap">
+            <p class="brand-name">DetoxJuices Recipes</p>
+            
+            <nav aria-label="Main navigation">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="juices.html" aria-current="page">Juices</a></li>
+                    <li><a href="about.html">About us</a></li>
+                </ul>
+            </nav>
         </div>
     </header>
 
+    <!-- Main page content -->
     <main id="main">
         <section class="site-wrap">
-           <h1>Juice recipes</h1>
-              <p>Pick something healthy and delicious from our small selection of juice recipes. You can juice, or blend if you don't have a juicer.</p>
+            <h1>Juice recipes</h1>
+            <p>
+                Pick something healthy and delicious from our small selection of juice recipes. 
+                You can juice, or blend if you don't have a juicer.
+            </p>
 
-        <section aria-labelledby="veg-title">
-            <h2 id="veg-title">Two recipes inspired by common nutrition advice. Simple changes start here.</h2>
+        <!-- Recipe section -->
+        <section aria-labelledby="recipes-title">
+            <h2 id="recipes-title">Two recipes inspired by common nutrition advice. Simple changes start here.</h2>
                 
             <article class="recipe">
                 <h3>Green Refresh</h3>
-                    
-                    <div class="recipe-row">
-                    <img class="recipe-image" src="assets/images/green-juice.jpg" alt="A glass of green juice with other fruits and veg around it"/>
+                
+                <div class="recipe-row">
+                    <img class="recipe-image" src="assets/images/green-juice.jpg" alt="A glass of green juice with other fruits and vegetables around it">
                     
                     <div class="ingredients">
-                    <h4 class="ingredients-title">Ingredients:</h4>
-                    <ul>
-                        <li>1 cucumber</li> 
-                        <li>2 celery stalks</li>
-                        <li>1 green apple</li>
-                        <li>1 handful spinach</li>
-                        <li>1/2 lemon, peeled</li> 
-                        <li>1 teaspoon spirulina powder</li>
-                    </ul>
+                        <h4 class="ingredients-title">Ingredients:</h4>
+                        <ul>
+                            <li>1 cucumber</li> 
+                            <li>2 celery stalks</li>
+                            <li>1 green apple</li>
+                            <li>1 handful spinach</li>
+                            <li>1/2 lemon, peeled</li> 
+                            <li>1 teaspoon spirulina powder</li>
+                        </ul>
                     </div>
-                    </div>
-              <p class="suggestion"><strong>Suggestion:</strong> If it tastes too bitter, use only a quarter teaspoon of spirulina</p>
-              </article>
+                </div>
+                
+                <p class="suggestion">
+                    <strong>Suggestion:</strong> If it tastes too bitter, use only a quarter teaspoon of spirulina.
+            </p>
+        </article>
 
-              <article class="recipe">
-                    <h3>Beetroot Glow</h3>
+        
+        <article class="recipe">
+            <h3>Beetroot Glow</h3>
                     
-                    <div class="recipe-row">
-                    <img class="recipe-image" src="assets/images/beet-juice.jpg" alt="A glass of beetroot juice with other fruits and veg around it"/>
+            <div class="recipe-row">
+                <img class="recipe-image" src="assets/images/beet-juice.jpg" alt="A glass of beetroot juice with other fruits and vegetables around it">
 
-                    <div class="ingredients">
+                <div class="ingredients">
                     <h4 class="ingredients-title">Ingredients:</h4>
                     <ul>
                         <li>1 medium beetroot</li> 
@@ -67,29 +79,58 @@
                         <li>1 orange (peeled)</li>
                         <li>1/2 lemon, peeled</li>
                     </ul>
-                    </div>
-                    </div>
-                    <p class="suggestion"><strong>Suggestion:</strong> Add a pinch of celtic salt to absorb more minerals.</p>
-              </article>
-              </section>
-
-              <section aria-labelledby="learn-title">
-                <h2 id="learn-title">Most affordable Juicing Machine (Watch on YouTube)</h2>
-
-                <div class="video-frame">
-                    <iframe title="Most afforable juicing machines YouTube video"
-                        src="https://www.youtube.com/embed/wr85T6FPT0s"
-                        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen>
-                    </iframe>
                 </div>
+            </div>
+                    
+            <p class="suggestion">
+                <strong>Suggestion:</strong> Add a pinch of celtic salt to absorb more minerals.
+            </p>
+        </article>
+    </section>
+    
+    <!-- Embedded video and external learning link -->
+    <section aria-labelledby="learn-title">
+        
+        <h2 id="learn-title">Most affordable Juicing Machine (Watch on YouTube)</h2>
+ 
+        <!-- 
+        Third party content:
+        YouTube video used for educational purposes to demonstrate affordable juicing machines. 
+
+        Source: https://www.youtube.com/watch?v=wr85T6FPT0s
+         -->
+
+        <div class="video-frame">
+            <iframe
+                title="Most afforable juicing machines YouTube video"
+                src="https://www.youtube.com/embed/wr85T6FPT0s"
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+            </iframe>
+        </div>
                 
-                <h3>Explore further</h3>
-              <p>
-                <a href= "https://youtu.be/o2j1XOwq3mw?si=AuX0Jg1b94PUg-Ts" target="_blank" rel="noopener noreferrer"> Click on this link</a> to watch a YouTube video on the benefits of juicing.</p>
+        <h3>Explore further</h3>
+
+        <!-- 
+        External learning resource:
+        YouTube video on the benefits of juicing, used to provide additional educational content for users.
+
+        Source: 
+        https://youtu.be/o2j1XOwq3mw?si=AuX0Jg1b94PUg-Ts
+        -->
+        
+        <p>
+            <a href= "https://youtu.be/o2j1XOwq3mw?si=AuX0Jg1b94PUg-Ts" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            Watch a YouTube video on the benefits of juicing
+            </a>
+        </p>
         </section>
         </section>
     </main>
+    
+    <!-- Footer with copyright information -->
     <footer>
         <div class="site-wrap">
             <p>&copy; 2026 DetoxJuices Recipes</p>
