@@ -4,6 +4,9 @@
 DetoxJuices Recipes is a static front-end website built using HTML5 and CSS3. The website provides simple fruit and vegetable juice recipes using everyday ingredients. Primarily focusing on just two unique recipes.
 The aim of this project is to encourage healthier habits by making the recipes easy to understand, visually clear and accessible across different devices.
 
+## Project rationale 
+The idea behind this prject was to create a website for users who want healthier drink ideas in a format that feels simple and approachable. There are recipe websites that can feel too crowded or contain too much information all at once. Due to this reason, I took the initiative of building a much more smaller website that focuses on clarity, readability, and ease of use. The project is aimed at beginners, busy users and for people who are accessing the website on mobile devices. The design choices were made around those needs. Ultimately keeping the page structure simple, used consistent navigation across all pages and limiting the amount of content on each page so the information would be easier to follow.
+
 ## Purpose and value
 The purpose of this website is to help people who want to improve their diet and not feel overwhelmed by complex recipes. 
 The website provides value by keeping juice recipes simple, affordable, and easy to follow, using ingredients that are widely available. By focusing on a small number of clear recipes, the site encourages users to build healthy habits gradually rather than offering too many choices at once.
@@ -23,9 +26,9 @@ The target audience consists of:
 
 ## Website pages
 The website consists of three pages:
-- Home page (index.html)
-- Juices page (juices.html)
-- About page (about.html)
+- index.html - home page introducing the website and directing users to the recipes and about page
+- juices.html - it is a recipes page containing two juice recipes and an embedded video
+- about.html - background information about the project, target users, and accessibility approach
 
 ## Accessibility
 - Using semantic HTML elements 'header', 'nav', 'sections', 'main', 'article' and 'footer'
@@ -33,6 +36,12 @@ The website consists of three pages:
 - No autoplay media, users can control video playback
 - Clear focused navigation and hover states for navigation links
 - Sufficient contrast between text and background colours
+- Descriptive alt text for images
+
+
+
+
+
 
 ## Technologies used
 - HTML5
