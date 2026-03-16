@@ -45,6 +45,16 @@ The home page introduces the purpose of the site clearly and gives users a direc
 
 ![Home page showing introduction and browse recipes button](assets/Screenshots/home-page.png)
 
+### User story 2: quick and simple recipe access
+The juices page presents ingredients in a clear format so users can read and follow recipes easily.
+
+![Juices page showing the recipe layout and ingredients](assets/Screenshots/juices-page.png)
+
+### User story 3: understanding the purpose of the website
+The about page explains the purpose of the website and how it is intended to help its users.
+
+![Abouts page showing the purpose of the site and user-focused content](assets/Screenshots/about-page.png)
+
 ## Technologies used
 - HTML5
 - CSS3
