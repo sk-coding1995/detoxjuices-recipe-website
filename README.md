@@ -62,6 +62,20 @@ The about page explains the purpose of the website and how it is intended to hel
 - GitHub (manual commits for version control)
 - CSS Grid and media queries for user layout
 
+## Development lifecycle
+
+### Planning
+The project began with the idea of creating a simple front-end website based on healthy juice recipes. I identified the main audience as beginners, busy users, and mobile users. From there, I planned a three-page structure that would stay focused and easy to navigate.
+
+### Structure
+The HTML pages were built first using semantic elements so the layout would be organised and accessible. Navigation was added early so that all pages would stay connected consistently.
+
+### Styling 
+The CSS was then added to create a dark theme, readable text, card-style sections, and spacing that kept the pages clear. Media queries were used to improve the layout on smaller devices.
+
+### Testing and improvment 
+After the main structure and styling were complete, the site was tested manually for navigation, readability, responsiveness, accessibility features and media behaviour. Some content wording, code organisation and folder structure on both VS code and GitHub needed to be improved to make the final version clearer.
+
 ## Attribution 
 All HTML and CSS code in this project was written by the author. Videos on the website are hosted on YouTube and embedded. No external frameworks, libraries or templates were used in the development of this project.
 
