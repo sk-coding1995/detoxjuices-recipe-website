@@ -43,7 +43,7 @@ The website consists of three pages:
 ### User story 1: beginner-friendly recipes
 The home page introduces the purpose of the site clearly and gives users a direct route to the recipe page.
 
-![Home page showing introduction and browse recipes button](assets/screenshots/home-page.png)
+![Home page showing introduction and browse recipes button](assets/Screenshots/home-page.png)
 
 ## Technologies used
 - HTML5
