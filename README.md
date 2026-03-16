@@ -38,10 +38,12 @@ The website consists of three pages:
 - Sufficient contrast between text and background colours
 - Descriptive alt text for images
 
+## Screenshots linked to user stories
 
+### User story 1: beginner-friendly recipes
+The home page introduces the purpose of the site clearly and gives users a direct route to the recipe page.
 
-
-
+![Home page showing introduction and browse recipes button](assets/screenshots/home-page.png)
 
 ## Technologies used
 - HTML5
