@@ -110,5 +110,22 @@ The project was deployed using GitHub Pages.
 7. Open the live website link once GitHub Pages finishes building.
 8. Carry out a final check to ensure the deployed version matches the local development version 
 
-## Attribution 
-All HTML and CSS code in this project was written by the author. Videos on the website are hosted on YouTube and embedded. No external frameworks, libraries or templates were used in the development of this project.
+## Credits and attribution
+
+### Third-party content used in the project 
+The following external content appears directly in the project:
+- Embedded YouTube video used on the juices page: 'https://www.youtube.com/embed/wr85T6FPT0s'
+- External YouTube link used on the juices page: 'https://youtu.be/o2j1XOwq3mw?si=AuX0Jg1b94PUg-Ts'
+
+### Custom code external resources
+All HTML structure, written content, layout design, layout code and CSS styling in this project were created by me.
+
+### Reference sources used during development
+- Code institute 
+- FreeCodeCamp
+- MDN Web Docs
+- W3C Markup Validation Service
+- W3C CSS Validation Service
+
+### Images
+All images used in this project were sourced specifically for this website and are used for demonstration puporses within the project.
