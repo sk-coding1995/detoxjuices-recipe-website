@@ -70,3 +70,19 @@ Result: Accessibility features worked as intended (Pass)
 Opened live GitHub pages site.
 Expected: Live site matches local version.
 Result: No differences found (Pass)
+
+## Validation testing
+
+### HTML validation
+
+Each HTML page was checked using the W3C Markup Validation Service.
+
+- 'index.html' - passed after final corrections
+- 'juices.html' - passed after final corrections
+- 'about.html' - passed after final corrections
+
+### CSS validation
+
+The stylesheet 'styles.css' was checked using the W3C CSS Validation Service.
+
+- 'styles.css' - passed after final corrections
