@@ -1,77 +1,61 @@
-# Testing Report
+# Testing - DetoxJuices Recipes
 
-Within this document it outlines the manual testing conducted during the development of the DetoxJuices Recipes website.
-The main purpose of testing is to ensure functionaity is in working order, responsive, accesible and no major issues before deployment.
+## Testing overview
+The website was tested manually during development and again before final deployment. The aim of testing was to check functionality, usability, responsiveness, accessibility, and consistency across all three pages of the website.
 
-## Validation (HTML)
+## Manual testing record
 
-**Validator used:**
-W3C Markup validation software
+Navigation 
+clicked each navigation link on every page
+expected: Each link opens the correct page
+Result: All navigation links worked correctly (Pass)
 
-**Pages tested:**
-- index.html
-- juices.html
-- about.html
+Home page buttons
+Clicked "browse recipes" and "Read our story"
+Expected: Each button links to the correct page
+Result: Both buttons worked with no issue (Pass)
 
-**The test (HTML):** 
-All files went through extensive checks through the W3C validator looking out for syntax or structural errors.
+Skip link
+Pressed the Tab key from the top of the website page to test keyboard navigation
+Expected: The skip link becomes visible and allows jumping straight to the main content
+Result: The skip link appeared and moved focus to the main content correctly (Pass)
 
-**Results:**
-- Every page had passed validations with no errors.
-- Every image includes alt text.
-- External links open in a new tab and include appropriate rel attributes.
+Images
+Loaded each page and reviewed images
+Expected: Images display clearly and scale correctly
+Result: Images displayed correctly with no distortion (Pass)
 
-## Validation (CSS)
+Recipe layout
+Viewed recipe sections on desktop and mobile sizes
+Expected: Content remains readable and structured 
+Result: Layout remained clear across screen sizes (Pass)
 
-**Validator used:**
-W3C CSS Validator Jigsaw
+Embedded video
+Opened the juices page and tested the video
+Expected: Video loads and does not autoplay
+Result: Video loaded correctly and required user interaction (Pass)
 
-**Page tested**
-- styles.css
+External link
+Clicked on the YouTube link
+Expected: Link opens in a new tab
+Result: Link opened in a new browser tab (Pass)
 
-**The test (CSS):**
-The stylesheet was validated to check for invalid properties or values.
+Mobile responsiveness
+Tested the website on a smaller screen sizes by resizing the browser window
+Expected: Layout stacks and remains easy to read
+Result: Layout adjusted correctly and content remained clear (Pass)
 
-**Result:**
-- One small issue relating to a missing unit value was identified and fixed.
-- The final stylesheet passes validation with no errors.
+Desktop layout
+Tested large screen sizes
+Expected: Layout stays consistent
+Result: No layout issues found (Pass)
 
----
+Accessibility
+Checked headings, alt text, skip link, and keyboard navigation
+Expected: Site is accessible and easy to navigate
+Result: Accessibility features worked as intended (Pass)
 
-## Accessibility Tesing
-
-**The test:**
-- Skip link functionality tested.
-- Colour contrast checked visually.
-- Image altvernative text reviewed.
-
-**Result:**
-- Updated skip link target to match main content ID.
-- Headings follow a structure.
-- Text remains readable against background colours.
-
-## Navigation Testing
-
-**The test:**
-- navigation links tested across all pages.
-
-**Result:**
-- All navigation links are in working order.
-- Navigation stays consistent throughout all pages.
-
-## Media User Control Testing
-
-**The test:**
-- Embedded YouTube video tested for user control.
-
-**Result:**
-- No autoplay for video.
-- User has full control of video playback.
-- All controls are visible and functional for video.
-
-## Final review
-
-After all required testing the website meets the project criteria.
-Issues found during development were resolved before final submission.
-
-
+Deployment check
+Opened live GitHub pages site
+Expected: Live site matches local version
+Result: No differences found (Pass)
