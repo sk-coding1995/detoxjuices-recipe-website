@@ -94,8 +94,21 @@ Each HTML page was checked using the W3C Markup Validation Service and the CSS f
 ### CSS validation
 ![Validation screenshot for styles.css](assets/Screenshots/css-validator.png)
 
+## Testing
+A full manual testing record, including functionality, usability, responsiveness, bugs found, and fixes applied is included in the 'testing.md' file.
+
+## Deployment procedure 
+The project was deployed using GitHub Pages.
+
+### Steps to deploy
+1. Open the project repository on GitHub.
+2. Go to **settings**.
+3. Select **pages**.
+4. Choose the correct branch for deployment.
+5. Select the root folder if required.
+6. Save the settings.
+7. Open the live website link once GitHub Pages finishes building.
+8. Carry out a final check to ensure the deployed version matches the local development version 
 
 ## Attribution 
 All HTML and CSS code in this project was written by the author. Videos on the website are hosted on YouTube and embedded. No external frameworks, libraries or templates were used in the development of this project.
-
-
