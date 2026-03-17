@@ -76,6 +76,9 @@ The CSS was then added to create a dark theme, readable text, card-style section
 ### Testing and improvment 
 After the main structure and styling were complete, the site was tested manually for navigation, readability, responsiveness, accessibility features and media behaviour. Some content wording, code organisation and folder structure on both VS code and GitHub needed to be improved to make the final version clearer.
 
+## Reflection on the development process
+During development, the main focus of the project was to keep the website simple, readable and beginner-friendly. One challenge was balancing visual design with accessibility and usability. An example for this is , the dark colour scheme needed to maintain enough contrast so that text remained easy to read. Another improvement made during development was reorganising the HTML and CSS files into clearly commented sections.This made the code easier to understand and maintain.
+
 ## Validation
 
 ### Validation evidence 
