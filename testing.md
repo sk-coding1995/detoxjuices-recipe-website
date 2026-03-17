@@ -154,3 +154,11 @@ Result: The code is now easier to read and maintain.
 Issue: Responsive behaviour existed in the code, but the evidence for it was weak.  
 Fix: Responsive testing results and screenshots were added to the documentation.  
 Result: Responsiveness is now more clearly evidenced for assessment.
+
+## Unfixed bugs
+
+At the final testing stage, no known functional bugs remained in the project.
+
+## Final testing summary
+
+Overall, the final version od DetoxJuices Recipes was tested for functionality, usability, responsiveness, accessibility, deployment consistency, and validation. All checks confirmed the website is working as intended and the deployed version matches the local development version.
