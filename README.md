@@ -85,6 +85,7 @@ During development, the main focus of the project was to keep the website simple
 Each HTML page was checked using the W3C Markup Validation Service and the CSS file was checked using the W3C Jigsaw Validation service.
 
 ### HTML validation 
+
 ![Validation screenshot for index.html](assets/Screenshots/html-validator-index.png)
 
 ![Validation screenshot for juices.html](assets/Screenshots/html-validator-juices.png)
