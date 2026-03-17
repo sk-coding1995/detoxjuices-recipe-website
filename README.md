@@ -76,6 +76,22 @@ The CSS was then added to create a dark theme, readable text, card-style section
 ### Testing and improvment 
 After the main structure and styling were complete, the site was tested manually for navigation, readability, responsiveness, accessibility features and media behaviour. Some content wording, code organisation and folder structure on both VS code and GitHub needed to be improved to make the final version clearer.
 
+## Validation
+
+### Validation evidence 
+Each HTML page was checked using the W3C Markup Validation Service and the CSS file was checked using the W3C Jigsaw Validation service.
+
+### HTML validation 
+![Validation screenshot for index.html](assets/Screenshots/html-validator-index.png)
+
+![Validation screenshot for juices.html](assets/Screenshots/html-validator-juices.png)
+
+![Validation screenshot for about.html](assets/Screenshots/html-validator-about.png)
+
+### CSS validation
+![Validation screenshot for styles.css](assets/Screenshots/css-validator.png)
+
+
 ## Attribution 
 All HTML and CSS code in this project was written by the author. Videos on the website are hosted on YouTube and embedded. No external frameworks, libraries or templates were used in the development of this project.
 
